@@ -191,3 +191,4 @@ python generate_demo_pdfs.py
 This produces on your Desktop:
 - **`demo_scheme.pdf`** — 3-question marking scheme (OS, RAM, CPU) — 30 marks total
 - **`demo_answer_sheet.pdf`** — Partial student answers for `STU001` (Q1 full, Q2 partial, Q3 blank)
+update
